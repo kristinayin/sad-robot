@@ -1,10 +1,5 @@
-// importing necessary packages
-import java.util.*;
-import javax.swing.*;
-import java.awt.event.*;
-import java.awt.*;
 
-/**
+/*
  * Simple Paint Game
  * Kristina Yin
  * 
@@ -13,6 +8,10 @@ import java.awt.*;
  * In the frame, but outside of the main panel, there should be an "undo" button, which removes the most recently drawn circle.
  */
 
+// importing necessary packages
+import java.util.*; // for the arraylists
+import java.awt.event.*; // for the actionlistener
+import java.awt.*; // for all the gui components
 
 public class Paint
 {
